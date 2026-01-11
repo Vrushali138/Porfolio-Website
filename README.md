@@ -10,6 +10,6 @@ A simple personal portfolio website built using **HTML and CSS**.
 ## Tech Stack
 - HTML5
 - CSS3
-- 
+ 
 ## Author
 Vrushali
